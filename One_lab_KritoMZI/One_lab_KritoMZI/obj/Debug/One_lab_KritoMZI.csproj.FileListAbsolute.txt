@@ -1,0 +1,7 @@
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\bin\Debug\One_lab_KritoMZI.exe
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\bin\Debug\One_lab_KritoMZI.pdb
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\obj\Debug\One_lab_KritoMZI.csproj.AssemblyReference.cache
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\obj\Debug\One_lab_KritoMZI.csproj.SuggestedBindingRedirects.cache
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\obj\Debug\One_lab_KritoMZI.csproj.CoreCompileInputs.cache
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\obj\Debug\One_lab_KritoMZI.exe
+C:\Users\dvdvd\RiderProjects\One_lab_KritoMZI\One_lab_KritoMZI\obj\Debug\One_lab_KritoMZI.pdb
